@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
+title:              "B2B 레코드"
+tagline:            "B2B 제조업 마케터의 기록 모음집"
 email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+description:        "어렵게만 느껴지는 B2B 비즈니스에 한발짝 다가가기"
+author:             "LEMON"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://b2brecord.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/main_record.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
