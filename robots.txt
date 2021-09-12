@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://b2brecord.com/sitemap.xml
+#DaumWebMasterTool:84a218262fa6cd7ab36dc48f5d6c89db2b8a6c93f526ca9b6ef3a297d52b49c4:yW+jE+HZqfx5FHikzuVRfw==
