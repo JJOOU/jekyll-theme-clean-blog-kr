@@ -26,7 +26,7 @@ description: '디즈니+픽사+마블+스타워즈+내셔널지오그래픽이 �
 
 **디즈니플러스란?**
 _(사진출처 = 디즈니)_     
-![디즈니+ 프리미어액세스](/img/posts/08/ott_disney_plus_contents.jpg)   
+![디즈니+ 프리미어액세스](/img/posts/08/ott_disney_plus_contents.JPG)   
 디즈니플러스는 디즈니, 픽사, 마블, 스타워즈, 내셔널지오그래픽 등의 콘텐츠를 볼 수 있는 OTT 플랫폼입니다. 이미 글로벌 출시 2년만에 1억 2,000만명의 유료 구독자수를 확보하고, 신규 가입자 수 1,200만명을 확보했다고 하네요.   
 신규 가입자 수만 보면 벌써 넷플릭스보다 8배가량 많다고 합니다!   
 
@@ -48,7 +48,7 @@ _(사진출처 = 디즈니)_
 시트콤 Modern Family, 고전 장르 Buffy Vampire Slayer, 오스카 수상작 Nomadland 등 여러가지 콘텐츠를 제공한답니다.   
 
 _(사진출처 = 디즈니)_
-![디즈니+ 프리미어액세스](/img/posts/08/ott_disney_plus_premium_acess_contents.jpg)
+![디즈니+ 프리미어액세스](/img/posts/08/ott_disney_plus_premium_acess_contents.JPG)
 ### 2. 프리미어 액세스(Premier Access) ###   
 현재 영화관에서 상영하고 있는 개봉영화를 바로 집에서 볼 수 있는 서비스입니다.   
 단, 유료 서비스로, 각 영화당 30달러를 추가로 결제해야 한다고 하네요!    
@@ -57,7 +57,7 @@ _(영화 별로 금액이 상이할 수 있습니다)_
 프리미어 액세스 서비스를 통해 집에서도 시청이 가능했다고 합니다.   
 
 _(사진출처 = 디즈니)_   
-![디즈니+ 독점컨텐츠](/img/posts/08/ott_disney_plus_monopoly_contents.jpg)   
+![디즈니+ 독점컨텐츠](/img/posts/08/ott_disney_plus_monopoly_contents.JPG)   
 ### 3. 독점 콘텐츠 ###    
 - The Mandalorian : 최초의 실사 스타워즈 시리즈 영화   
 - Loki  : Marvel 시리즈. 첫번째 시즌 전체 시청 가능   
@@ -79,7 +79,7 @@ _(사진출처 = 디즈니)_
 
 
 **한국 OTT 시장과 함께보는 디즈니+** _(사진출처 = 와이즈앱)_   
-![OTT앱 사용자 순위](/img/posts/08/ott_contents_user.jpg)   
+![OTT앱 사용자 순위](/img/posts/08/ott_contents_user.JPG)   
 
 현재 국내 OTT 시장에서 가장 큰 존재감을 보이고 있는 곳은 단연 넷플릭스입니다.   
 2016년, 한국에 진출한지 5년이 지난 넷플릭스는 국내 OTT 서비스 중 가장 많은    
