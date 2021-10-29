@@ -45,6 +45,14 @@ layout: default
             {% endif %}
 
 
+            <!-- view-item event -->
+              <script type="text/javascript">
+                dataLayer.push({
+                'event':'view_item',
+                'pageTitle' : '{{ page.title }}'
+                });
+              </script>
+
           </div>
 
         </div>
