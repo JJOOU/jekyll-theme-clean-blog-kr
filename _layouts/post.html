@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<!-- Page Header -->
-{% if page.background %}
-  <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-{% else %}
-  <header class="masthead" style="background-image: url('{{ page.feature | prepend: site.baseurl | replace: '//', '/' }}')">
-{% endif %}
-
 <!-- view-item event -->
   <script type="text/javascript">
     dataLayer.push({
@@ -17,7 +10,14 @@ layout: default
     });
   </script>
 
-  
+
+<!-- Page Header -->
+{% if page.background %}
+  <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% else %}
+  <header class="masthead" style="background-image: url('{{ page.feature | prepend: site.baseurl | replace: '//', '/' }}')">
+{% endif %}
+
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
