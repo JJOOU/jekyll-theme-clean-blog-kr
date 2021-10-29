@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<!-- view-item event -->
+  <script type="text/javascript">
+    dataLayer.push({
+    'event':'view_item',
+    'pageTitle' : '{{ page.title }}'
+    });
+  </script>
+
 <!-- Page Header -->
 {% if page.background %}
   <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
@@ -44,11 +52,3 @@ layout: default
     </div>
   </article>
   {% include disqus.html %}
-
-  <!-- view-item event -->
-    <script type="text/javascript">
-      dataLayer.push({
-      'event':'view_item',
-      'pageTitle' : '{{ page.title }}'
-      });
-    </script>
