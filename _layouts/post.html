@@ -2,13 +2,7 @@
 layout: default
 ---
 
-<!-- view-item event -->
-  <script type="text/javascript">
-    dataLayer.push({
-    'event':'view_item',
-    'pageTitle' : '{{ page.title }}'
-    });
-  </script>
+
 
 
 <!-- Page Header -->
@@ -68,3 +62,11 @@ layout: default
   </article>
 
   {% include disqus.html %}
+
+  <!-- view-item event -->
+    <script type="text/javascript">
+      dataLayer.push({
+      'event':'view_item',
+      'pageTitle' : '{{ page.title }}'
+      });
+    </script>
