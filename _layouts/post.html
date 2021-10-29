@@ -8,24 +8,28 @@ layout: default
 {% else %}
   <header class="masthead" style="background-image: url('{{ page.feature | prepend: site.baseurl | replace: '//', '/' }}')">
 {% endif %}
+
+<!-- view-item event -->
+  <script type="text/javascript">
+    dataLayer.push({
+    'event':'view_item',
+    'pageTitle' : '{{ page.title }}'
+    });
+  </script>
+
+  
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
+
+
+
             <h1>{{ page.title }}</h1>
             <span class="meta">
               {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
               content=page.content %}
-
-              <!-- view-item event -->
-                <script type="text/javascript">
-                  dataLayer.push({
-                  'event':'view_item',
-                  'pageTitle' : '{{ page.title }}'
-                  });
-                </script>
-
             </span>
           </div>
         </div>
