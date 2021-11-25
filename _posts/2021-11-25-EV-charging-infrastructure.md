@@ -102,7 +102,7 @@ AC 2*22kW 충전기를 대표적으로 생산하며,
 2대를 한 번에 충전할 수 있도록 설계되어 있다고 합니다.   
 *더 자세한 내용은 뉴스 <https://bit.ly/3r7yDYZ>에서 확인 가능!   
 
-_(사진출처 = CS-Process 홈페이지: http://cs-process.hu/)_     
+_(사진출처 = CS-Process 홈페이지: <http://cs-process.hu/>)_     
 ![전기차충전기+헝가리](/img/posts/09/CS-Process-EV-Charger.jpg)    
 
 
@@ -111,10 +111,10 @@ _(사진출처 = CS-Process 홈페이지: http://cs-process.hu/)_
 최근 뉴질랜드의 전기차 판매대수가 3배 수치에 달하면서,   
 전기차 시장 성장을 위해 필요한 전기차 충전소 부족 문제를 빠르게 개선 중이라고 합니다.   
 
-*더 자세한 내용은 뉴스(https://bit.ly/32qf7MZ)에서 확인 가능!   
+*더 자세한 내용은 뉴스 <https://bit.ly/32qf7MZ>에서 확인 가능!   
 
-_(사진출처 = 현지 전기충전네트워크 웹사이트 https://charge.net.nz/)_    
-![전기차충전기+뉴질랜드](/img/posts/09/NewZealand-EV-Charger.JPG)   
+_(사진출처 = 현지 전기충전네트워크 웹사이트 <https://charge.net.nz/>)_    
+![전기차충전기+뉴질랜드](/img/posts/09/NewZealand-EV-Charger.jpg)   
 
 🎌일본에서는?   
 일본은 일찍부터 전기차 충전 인프라를 구축했는데요,   
